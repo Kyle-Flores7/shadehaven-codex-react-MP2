@@ -1,0 +1,138 @@
+[
+  {
+    "id": "lord-koku",
+    "name": "Lord Koku",
+    "title": "The Hollowed Eternal",
+    "faction": "Shadehaven",
+    "role": "Necromancer Lord",
+    "image": "/images/lord-koku.jpg",
+    "weapons": [
+      "Staff of the Prince of Death – a runed staff that channels white-purple necromantic flame"
+    ],
+    "equipment": [
+      "Runic obsidian robes etched with glowing sigils",
+      "Crown of Stillness – a circlet that bends silence and memory",
+      "Bone talismans bound with soul-thread"
+    ],
+    "lore": "Before stories learned to end, there was Koku — the principle of Stillness given form. He is not merely the god of death, but the boundary that makes life meaningful. Ruling from Shadehaven Castle in the Land of Solitude, Lord Koku commands legions of ash-bound dead, weaving their echoes into the tapestry of endings he tends."
+  },
+  {
+    "id": "bael-pax",
+    "name": "Bael Pax",
+    "title": "The Hollowed Echo",
+    "faction": "Cindered Legion",
+    "role": "Deathknight General",
+    "image": "/images/bael-pax.jpg",
+    "weapons": [
+      "Echostill – a greatsword that carries the souls of those he has personally felled, humming with their whispers"
+    ],
+    "equipment": [
+      "Charred plate armor cracked with inner white fire",
+      "Cloak of drifting cinders",
+      "Sigils of Lord Koku burned into his helm"
+    ],
+    "lore": "Once a giant among early humans, Bael Pax fell in a doomed last stand. Lord Koku offered him a second existence: rise as a deathknight and become the first echo of Koku's will. Now his armor is forever cracked with furnace-light, ash spilling from each step. Echostill drinks the voices of the fallen, binding them to the Cindered Legion."
+  },
+  {
+    "id": "dova",
+    "name": "Dova",
+    "title": "Warden of the Veiled Judgment",
+    "faction": "The Veil",
+    "role": "Ethereal Arbiter",
+    "image": "/images/dova.jpg",
+    "weapons": [
+      "Veilblade – a sword formed from a wand, changing shape based on the judgment he passes"
+    ],
+    "equipment": [
+      "Half-light, half-shadow mantle that shifts with his decisions",
+      "Mask of the Unseen Verdict",
+      "Chains of spectral ink that bind condemned souls"
+    ],
+    "lore": "Dova walks between light and dark, a being woven from both mercy and condemnation. He keeps the prison at the edge of Shadehaven, where souls await their final verdict. His wand unfolds into Veilblade, its edge altering with each sentence — gentle for the absolved, cruel for the damned."
+  },
+  {
+    "id": "vhagar",
+    "name": "Vhagar",
+    "title": "The Unbroken Flame",
+    "faction": "Wandering Flame",
+    "role": "Vigilant Brawler",
+    "image": "/images/vhagar.jpg",
+    "weapons": [
+      "His indomitable will and bare fists, burning with remnant dragonfire"
+    ],
+    "equipment": [
+      "Scorched wraps around his arms and knuckles",
+      "Tattered cloak that smells of smoke and rain",
+      "Dragon-scale fragments embedded beneath his skin"
+    ],
+    "lore": "Vhagar was once a dragon who chose to shed his scaled form and walk as a man. The fire never left him — it simply moved inward, into resolve and rage. He wanders the edges of the Land of Solitude, striking down tyrants and monsters alike."
+  },
+  {
+    "id": "follower-of-stillness",
+    "name": "Follower of Stillness",
+    "title": "Acolyte of Shadehaven",
+    "faction": "Shadehaven",
+    "role": "Undead Acolyte",
+    "image": "/images/follower-of-stillness.jpg",
+    "weapons": [
+      "Whispershard – a bone staff that channels the quiet of unmade worlds"
+    ],
+    "equipment": [
+      "Tattered obsidian robes that never stir in the wind",
+      "Rattle of ivory prayer beads etched with runes of silence",
+      "Hood that hides a skeletal visage lit by pale inner glow"
+    ],
+    "lore": "Before time and creation, when there was only Stillness, the first acolytes were shaped from bone and intent. This Follower of Stillness has served Lord Koku since before stories learned to begin. Their duty is simple and eternal: preserve the hush between heartbeats and guide new dead into Shadehaven's embrace."
+  },
+  {
+    "id": "cindered-deathknight",
+    "name": "Cindered Death Knight",
+    "title": "Blade of the Hollowed Echo",
+    "faction": "Cindered Legion",
+    "role": "Deathknight",
+    "image": "/images/cindered-deathknight.jpg",
+    "weapons": [
+      "Ashrend – a jagged greatsword wreathed in slow-falling embers"
+    ],
+    "equipment": [
+      "Blackened plate armor fused with cooled slag",
+      "Cloak of smoke that trails behind each step",
+      "Cinderbrand sigil upon the chest, marking loyalty to Bael Pax"
+    ],
+    "lore": "When Bael Pax was named general of Lord Koku's armies, the first to swear oath became the Cindered Death Knights. This warrior is one of those ironclad followers, their mortal name burned away in the furnace of allegiance. They march without rest, an extension of Bael's will."
+  },
+  {
+    "id": "veiled-scholar",
+    "name": "Veiled Scholar",
+    "title": "Student of Judgment",
+    "faction": "The Veil",
+    "role": "Arcane Scholar",
+    "image": "/images/veiled-scholar.jpg",
+    "weapons": [
+      "Quill of Balance – a feathered wand that records every verdict in invisible ink"
+    ],
+    "equipment": [
+      "Layered veils obscuring their eyes but not their insight",
+      "Scrolls bound in silver chain, each holding a different doctrine of judgment",
+      "Lantern of Soft Dawn, revealing the true weight of a heart"
+    ],
+    "lore": "Under Dova's watchful presence, Veiled Scholars study the intricate dance between guilt and grace. Each verdict, each hesitation, becomes a lesson — not just in punishment, but in the possibilities of redemption."
+  },
+  {
+    "id": "infernal-wyvern",
+    "name": "Infernal Wyvern",
+    "title": "Acolyte of the Unbroken Flame",
+    "faction": "Wandering Flame",
+    "role": "Dragonborn Acolyte",
+    "image": "/images/infernal-wyvern.jpg",
+    "weapons": [
+      "Claws and ember-breath, not yet a full dragon's roar but deadly all the same"
+    ],
+    "equipment": [
+      "Young scale-plates mottled with ember-orange and soot-black",
+      "Bronze collar marked with Vhagar's sigil",
+      "Wing wraps inscribed with oaths of loyalty to the Wandering Flame"
+    ],
+    "lore": "The Infernal Wyvern is an early dragonborn, not yet ascended into full draconic might. Drawn to Vhagar's path, they wander as a disciple of the Unbroken Flame, learning to temper fire with purpose."
+  }
+]
