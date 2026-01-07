@@ -1,16 +1,31 @@
-# React + Vite
+# Land of Solitude Codex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React Single Page Application (SPA) that showcases original dark-fantasy characters, factions, lore, weapons, and equipment from the Land of Solitude universe.
 
-Currently, two official plugins are available:
+## Features
+- React Router multi-page SPA
+  - Home (`/`)
+  - Characters (`/characters`)
+  - Character Detail (`/characters/:id`)
+  - Factions (`/factions`)
+- Search characters by name or title
+- Filter characters by faction
+- Factions page links into filtered character lists using query parameters
+- Character detail pages display full lore, weapons, and equipment
+- Styled using React Bootstrap and custom CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React (Functional Components)
+- React Router
+- React Hooks (`useState`, `useEffect`, `useMemo`)
+- React Bootstrap
+- Vite
 
-## React Compiler
+## Data
+Character data is stored in an internal JSON file:
+`src/data/characters.json`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Run Locally
+```bash
+npm install
+npm run dev
