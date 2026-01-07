@@ -1,3 +1,4 @@
+import { useSearchParams } from "react-router-dom";
 import { useEffect, useMemo, useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -9,6 +10,7 @@ import SearchBar from "../components/SearchBar";
 import FactionFilter from "../components/FactionFilter";
 
 export default function Characters() {
+  const [searchParams] = useSearchParams();
   const [characters, setCharacters] = useState([]);
   const [loading, setLoading] = useState(true);
   const [errorMsg, setErrorMsg] = useState("");
@@ -32,6 +34,11 @@ export default function Characters() {
 
     loadCharacters();
   }, []);
+  useEffect(() => {
+  const factionFromUrl = searchParams.get("faction") || "";
+  setFaction(factionFromUrl);
+}, [searchParams]);
+
 
   const factions = useMemo(() => {
     const set = new Set(characters.map((c) => c.faction));

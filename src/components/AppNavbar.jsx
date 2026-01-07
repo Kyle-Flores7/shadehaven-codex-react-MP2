@@ -20,6 +20,9 @@ export default function AppNavbar() {
             <Nav.Link as={NavLink} to="/characters">
               Characters
             </Nav.Link>
+            <Nav.Link as={NavLink} to="/factions">
+              Factions
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
