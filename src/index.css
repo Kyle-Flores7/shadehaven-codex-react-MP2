@@ -110,7 +110,35 @@ a {
   box-shadow: 0 0 18px rgba(251, 191, 36, 0.25);
 }
 
-/* Muted text helper */
 .text-muted-codex {
   color: var(--muted) !important;
+}
+.codex-hero {
+  background: radial-gradient(circle at top, rgba(27, 31, 59, 0.75) 0, rgba(5, 5, 9, 0.9) 55%, rgba(0, 0, 0, 0.95) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.45);
+}
+
+.codex-kicker {
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.codex-hero-title {
+  font-size: 2.4rem;
+  letter-spacing: 0.02em;
+}
+
+.codex-hero-subtitle {
+  max-width: 62ch;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.7;
+}
+
+.codex-panel {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(8px);
 }

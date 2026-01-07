@@ -5,7 +5,7 @@
     "title": "The Hollowed Eternal",
     "faction": "Shadehaven",
     "role": "Necromancer Lord",
-    "image": "/images/lord-koku.jpg",
+    "image": "/images/lord-koku.png",
     "weapons": [
       "Staff of the Prince of Death – a runed staff that channels white-purple necromantic flame"
     ],
@@ -22,7 +22,7 @@
     "title": "The Hollowed Echo",
     "faction": "Cindered Legion",
     "role": "Deathknight General",
-    "image": "/images/bael-pax.jpg",
+    "image": "/images/bael-pax.png",
     "weapons": [
       "Echostill – a greatsword that carries the souls of those he has personally felled, humming with their whispers"
     ],
@@ -39,7 +39,7 @@
     "title": "Warden of the Veiled Judgment",
     "faction": "The Veil",
     "role": "Ethereal Arbiter",
-    "image": "/images/dova.jpg",
+    "image": "/images/dova.png",
     "weapons": [
       "Veilblade – a sword formed from a wand, changing shape based on the judgment he passes"
     ],
@@ -56,7 +56,7 @@
     "title": "The Unbroken Flame",
     "faction": "Wandering Flame",
     "role": "Vigilant Brawler",
-    "image": "/images/vhagar.jpg",
+    "image": "/images/vhagar.png",
     "weapons": [
       "His indomitable will and bare fists, burning with remnant dragonfire"
     ],
@@ -73,7 +73,7 @@
     "title": "Acolyte of Shadehaven",
     "faction": "Shadehaven",
     "role": "Undead Acolyte",
-    "image": "/images/follower-of-stillness.jpg",
+    "image": "/images/follower-of-stillness.png",
     "weapons": [
       "Whispershard – a bone staff that channels the quiet of unmade worlds"
     ],
@@ -90,7 +90,7 @@
     "title": "Blade of the Hollowed Echo",
     "faction": "Cindered Legion",
     "role": "Deathknight",
-    "image": "/images/cindered-deathknight.jpg",
+    "image": "/images/cindered-deathknight.png",
     "weapons": [
       "Ashrend – a jagged greatsword wreathed in slow-falling embers"
     ],
@@ -107,7 +107,7 @@
     "title": "Student of Judgment",
     "faction": "The Veil",
     "role": "Arcane Scholar",
-    "image": "/images/veiled-scholar.jpg",
+    "image": "/images/veiled-scholar.png",
     "weapons": [
       "Quill of Balance – a feathered wand that records every verdict in invisible ink"
     ],
@@ -124,7 +124,7 @@
     "title": "Acolyte of the Unbroken Flame",
     "faction": "Wandering Flame",
     "role": "Dragonborn Acolyte",
-    "image": "/images/infernal-wyvern.jpg",
+    "image": "/images/Infernal-wyvern.png",
     "weapons": [
       "Claws and ember-breath, not yet a full dragon's roar but deadly all the same"
     ],
